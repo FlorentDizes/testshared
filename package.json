@@ -1,5 +1,8 @@
 {
-  "name": "testshared",
+  "name": "@florentdizes/testshared",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/FlorentDizes"
+  },
   "version": "1.0.0",
   "description": "A simple template for a custom React component library",
   "scripts": {
